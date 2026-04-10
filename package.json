@@ -6,7 +6,7 @@
     "test": "npm run lint && node --test"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=24"
   },
   "dependencies": {
     "leftpad": "1.0.0"
